@@ -95,6 +95,8 @@
           echo $_POST['t'];
           echo "<br>";
           echo $_POST['Di'];
+          echo "<br>";
+          echo $_POST['pole'];
   }
 }
 else
